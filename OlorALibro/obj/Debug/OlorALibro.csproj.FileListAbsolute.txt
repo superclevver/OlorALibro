@@ -1,0 +1,114 @@
+C:\Users\marba\Documents\Grau Superior\ABP\OlorALibro\OlorALibro\bin\Debug\OlorALibro.exe.config
+E:\Cep\DAM2A\M13 - PROJECTE\Projecte 1\1.0\OlorALibro\OlorALibro\bin\Debug\OlorALibro.exe.config
+E:\Cep\DAM2A\M13 - PROJECTE\Projecte 1\1.0\OlorALibro\OlorALibro\obj\Debug\OlorALibro.csprojResolveAssemblyReference.cache
+E:\Cep\DAM2A\M13 - PROJECTE\Projecte 1\1.0\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormActividades.resources
+E:\Cep\DAM2A\M13 - PROJECTE\Projecte 1\1.0\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormDatosXarxa.resources
+E:\Cep\DAM2A\M13 - PROJECTE\Projecte 1\1.0\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormEditarUsuario.resources
+E:\Cep\DAM2A\M13 - PROJECTE\Projecte 1\1.0\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormLogin.resources
+E:\Cep\DAM2A\M13 - PROJECTE\Projecte 1\1.0\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormModificarActividades.resources
+E:\Cep\DAM2A\M13 - PROJECTE\Projecte 1\1.0\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormModificarLibreria.resources
+E:\Cep\DAM2A\M13 - PROJECTE\Projecte 1\1.0\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormPrincipal.resources
+E:\Cep\DAM2A\M13 - PROJECTE\Projecte 1\1.0\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormPrincipalActividades.resources
+E:\Cep\DAM2A\M13 - PROJECTE\Projecte 1\1.0\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormPrincipalLibrerias.resources
+E:\Cep\DAM2A\M13 - PROJECTE\Projecte 1\1.0\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormRellenarLibrerias.resources
+E:\Cep\DAM2A\M13 - PROJECTE\Projecte 1\1.0\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormUsuarios.resources
+E:\Cep\DAM2A\M13 - PROJECTE\Projecte 1\1.0\OlorALibro\OlorALibro\obj\Debug\OlorALibro.Properties.Resources.resources
+E:\Cep\DAM2A\M13 - PROJECTE\Projecte 1\1.0\OlorALibro\OlorALibro\obj\Debug\OlorALibro.csproj.GenerateResource.Cache
+E:\Cep\DAM2A\M13 - PROJECTE\Projecte 1\1.0\OlorALibro\OlorALibro\bin\Debug\OlorALibro.exe
+E:\Cep\DAM2A\M13 - PROJECTE\Projecte 1\1.0\OlorALibro\OlorALibro\bin\Debug\OlorALibro.pdb
+E:\Cep\DAM2A\M13 - PROJECTE\Projecte 1\1.0\OlorALibro\OlorALibro\bin\Debug\Newtonsoft.Json.dll
+E:\Cep\DAM2A\M13 - PROJECTE\Projecte 1\1.0\OlorALibro\OlorALibro\bin\Debug\Newtonsoft.Json.xml
+E:\Cep\DAM2A\M13 - PROJECTE\Projecte 1\1.0\OlorALibro\OlorALibro\obj\Debug\OlorALibro.exe
+E:\Cep\DAM2A\M13 - PROJECTE\Projecte 1\1.0\OlorALibro\OlorALibro\obj\Debug\OlorALibro.pdb
+D:\Mirando proyecto\OlorALibro\OlorALibro\bin\Debug\OlorALibro.exe.config
+D:\Mirando proyecto\OlorALibro\OlorALibro\obj\Debug\OlorALibro.exe
+D:\Mirando proyecto\OlorALibro\OlorALibro\obj\Debug\OlorALibro.pdb
+D:\Mirando proyecto\OlorALibro\OlorALibro\obj\Debug\OlorALibro.csprojResolveAssemblyReference.cache
+D:\Mirando proyecto\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormActividades.resources
+D:\Mirando proyecto\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormDatosXarxa.resources
+D:\Mirando proyecto\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormEditarUsuario.resources
+D:\Mirando proyecto\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormLogin.resources
+D:\Mirando proyecto\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormModificarActividades.resources
+D:\Mirando proyecto\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormModificarLibreria.resources
+D:\Mirando proyecto\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormPrincipal.resources
+D:\Mirando proyecto\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormPrincipalActividades.resources
+D:\Mirando proyecto\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormPrincipalLibrerias.resources
+D:\Mirando proyecto\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormRellenarLibrerias.resources
+D:\Mirando proyecto\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormUsuarios.resources
+D:\Mirando proyecto\OlorALibro\OlorALibro\obj\Debug\OlorALibro.Properties.Resources.resources
+D:\Mirando proyecto\OlorALibro\OlorALibro\obj\Debug\OlorALibro.csproj.GenerateResource.Cache
+D:\Mirando proyecto\OlorALibro\OlorALibro\bin\Debug\OlorALibro.exe
+D:\Mirando proyecto\OlorALibro\OlorALibro\bin\Debug\OlorALibro.pdb
+D:\Mirando proyecto\OlorALibro\OlorALibro\bin\Debug\Newtonsoft.Json.dll
+D:\Mirando proyecto\OlorALibro\OlorALibro\bin\Debug\Newtonsoft.Json.xml
+F:\Mar\Projecte\ABP\OlorALibro\OlorALibro\bin\Debug\OlorALibro.exe.config
+F:\Mar\Projecte\ABP\OlorALibro\OlorALibro\obj\Debug\OlorALibro.exe
+F:\Mar\Projecte\ABP\OlorALibro\OlorALibro\obj\Debug\OlorALibro.pdb
+F:\Mar\Projecte\ABP\OlorALibro\OlorALibro\bin\Debug\OlorALibro.exe
+F:\Mar\Projecte\ABP\OlorALibro\OlorALibro\bin\Debug\OlorALibro.pdb
+F:\Mar\Projecte\ABP\OlorALibro\OlorALibro\bin\Debug\Newtonsoft.Json.dll
+F:\Mar\Projecte\ABP\OlorALibro\OlorALibro\bin\Debug\Newtonsoft.Json.xml
+F:\Mar\Projecte\ABP\OlorALibro\OlorALibro\obj\Debug\OlorALibro.csprojResolveAssemblyReference.cache
+F:\Mar\Projecte\ABP\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormActividades.resources
+F:\Mar\Projecte\ABP\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormDatosXarxa.resources
+F:\Mar\Projecte\ABP\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormEditarUsuario.resources
+F:\Mar\Projecte\ABP\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormLogin.resources
+F:\Mar\Projecte\ABP\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormModificarActividades.resources
+F:\Mar\Projecte\ABP\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormModificarLibreria.resources
+F:\Mar\Projecte\ABP\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormPrincipal.resources
+F:\Mar\Projecte\ABP\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormPrincipalActividades.resources
+F:\Mar\Projecte\ABP\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormPrincipalLibrerias.resources
+F:\Mar\Projecte\ABP\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormRellenarLibrerias.resources
+F:\Mar\Projecte\ABP\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormUsuarios.resources
+F:\Mar\Projecte\ABP\OlorALibro\OlorALibro\obj\Debug\OlorALibro.Properties.Resources.resources
+F:\Mar\Projecte\ABP\OlorALibro\OlorALibro\obj\Debug\OlorALibro.csproj.GenerateResource.Cache
+F:\Mar\Projecte\ABP\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormInicio.resources
+C:\Users\marba\Documents\Grau Superior\ABP\OlorALibro\OlorALibro\obj\Debug\OlorALibro.exe
+C:\Users\marba\Documents\Grau Superior\ABP\OlorALibro\OlorALibro\obj\Debug\OlorALibro.pdb
+C:\Users\marba\Documents\Grau Superior\ABP\OlorALibro\OlorALibro\bin\Debug\OlorALibro.exe
+C:\Users\marba\Documents\Grau Superior\ABP\OlorALibro\OlorALibro\bin\Debug\OlorALibro.pdb
+C:\Users\marba\Documents\Grau Superior\ABP\OlorALibro\OlorALibro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marba\Documents\Grau Superior\ABP\OlorALibro\OlorALibro\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marba\Documents\Grau Superior\ABP\OlorALibro\OlorALibro\obj\Debug\OlorALibro.csprojResolveAssemblyReference.cache
+C:\Users\marba\Documents\Grau Superior\ABP\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormActividades.resources
+C:\Users\marba\Documents\Grau Superior\ABP\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormDatosXarxa.resources
+C:\Users\marba\Documents\Grau Superior\ABP\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormEditarUsuario.resources
+C:\Users\marba\Documents\Grau Superior\ABP\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormInicio.resources
+C:\Users\marba\Documents\Grau Superior\ABP\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormLogin.resources
+C:\Users\marba\Documents\Grau Superior\ABP\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormModificarActividades.resources
+C:\Users\marba\Documents\Grau Superior\ABP\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormModificarLibreria.resources
+C:\Users\marba\Documents\Grau Superior\ABP\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormPrincipal.resources
+C:\Users\marba\Documents\Grau Superior\ABP\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormPrincipalActividades.resources
+C:\Users\marba\Documents\Grau Superior\ABP\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormPrincipalLibrerias.resources
+C:\Users\marba\Documents\Grau Superior\ABP\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormRellenarLibrerias.resources
+C:\Users\marba\Documents\Grau Superior\ABP\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormUsuarios.resources
+C:\Users\marba\Documents\Grau Superior\ABP\OlorALibro\OlorALibro\obj\Debug\OlorALibro.Properties.Resources.resources
+C:\Users\marba\Documents\Grau Superior\ABP\OlorALibro\OlorALibro\obj\Debug\OlorALibro.csproj.GenerateResource.Cache
+C:\Users\marba\Documents\Grau Superior\ABP\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormEstadisticas.resources
+F:\Mar\Projecte\ABP\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormEstadisticas.resources
+C:\Users\Olga Atset\Desktop\OlorALibroTodo\OlorALibro\OlorALibro\bin\Debug\OlorALibro.exe.config
+C:\Users\Olga Atset\Desktop\OlorALibroTodo\OlorALibro\OlorALibro\obj\Debug\OlorALibro.exe
+C:\Users\Olga Atset\Desktop\OlorALibroTodo\OlorALibro\OlorALibro\obj\Debug\OlorALibro.pdb
+C:\Users\Olga Atset\Desktop\OlorALibroTodo\OlorALibro\OlorALibro\bin\Debug\OlorALibro.exe
+C:\Users\Olga Atset\Desktop\OlorALibroTodo\OlorALibro\OlorALibro\bin\Debug\OlorALibro.pdb
+C:\Users\Olga Atset\Desktop\OlorALibroTodo\OlorALibro\OlorALibro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Olga Atset\Desktop\OlorALibroTodo\OlorALibro\OlorALibro\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Olga Atset\Desktop\OlorALibroTodo\OlorALibro\OlorALibro\obj\Debug\OlorALibro.csprojResolveAssemblyReference.cache
+C:\Users\Olga Atset\Desktop\OlorALibroTodo\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormActividades.resources
+C:\Users\Olga Atset\Desktop\OlorALibroTodo\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormDatosXarxa.resources
+C:\Users\Olga Atset\Desktop\OlorALibroTodo\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormEditarUsuario.resources
+C:\Users\Olga Atset\Desktop\OlorALibroTodo\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormEstadisticas.resources
+C:\Users\Olga Atset\Desktop\OlorALibroTodo\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormInicio.resources
+C:\Users\Olga Atset\Desktop\OlorALibroTodo\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormLogin.resources
+C:\Users\Olga Atset\Desktop\OlorALibroTodo\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormModificarActividades.resources
+C:\Users\Olga Atset\Desktop\OlorALibroTodo\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormModificarLibreria.resources
+C:\Users\Olga Atset\Desktop\OlorALibroTodo\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormPrincipal.resources
+C:\Users\Olga Atset\Desktop\OlorALibroTodo\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormPrincipalActividades.resources
+C:\Users\Olga Atset\Desktop\OlorALibroTodo\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormPrincipalLibrerias.resources
+C:\Users\Olga Atset\Desktop\OlorALibroTodo\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormRellenarLibrerias.resources
+C:\Users\Olga Atset\Desktop\OlorALibroTodo\OlorALibro\OlorALibro\obj\Debug\OlorALibro.FormUsuarios.resources
+C:\Users\Olga Atset\Desktop\OlorALibroTodo\OlorALibro\OlorALibro\obj\Debug\OlorALibro.Properties.Resources.resources
+C:\Users\Olga Atset\Desktop\OlorALibroTodo\OlorALibro\OlorALibro\obj\Debug\OlorALibro.csproj.GenerateResource.Cache
+C:\Users\Olga Atset\Desktop\OlorALibro\OlorALibro\bin\Debug\OlorALibro.exe.config
+C:\Users\Olga Atset\Desktop\OlorALibro\OlorALibro\obj\Debug\OlorALibro.exe
+C:\Users\Olga Atset\Desktop\OlorALibro\OlorALibro\obj\Debug\OlorALibro.pdb
