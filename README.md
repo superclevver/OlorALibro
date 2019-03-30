@@ -1,4 +1,4 @@
-# OlorALibro
+# OlorALibro-Desktop
 Aplicación de escritorio para gestionar librerías y sus actividades y los usuarios que las visitan.
 
 
